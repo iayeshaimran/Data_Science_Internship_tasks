@@ -1,26 +1,31 @@
-# Iris Dataset Visualization
+# Data_Science_Internship_tasks
 
-## Objective
-To understand how to load, summarize, and visualize a dataset using Python.
+This repository contains tasks completed during my Data Science Internship at DevelopersHub Corporation.
 
-## Dataset
-Iris Dataset
+## Tasks Completed
 
-## Approach
-- Loaded dataset using pandas and seaborn
-- Checked shape, columns, and summary
-- Created scatter plot
-- Created histogram
-- Created box plot
+### Task 1: Iris Dataset Analysis
+- Loaded Iris dataset
+- Explored dataset structure
+- Performed basic analysis
 
-## Results and Insights
-Scatter plot showed relationships between variables.
-Histogram showed distribution of values.
-Box plot helped identify spread and outliers.
+### Task 2: Insurance Claim Dataset Analysis
+- Loaded insurance dataset
+- Checked shape and information
+- Created visualizations
+- Added conclusions
+
+### Task 3: Personal Loan Dataset Analysis
+- Performed data analysis
+- Created graphs and insights
+- Added conclusions
 
 ## Tools Used
-Python
-Pandas
-Matplotlib
-Seaborn
-Google Colab
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Internship
+DevelopersHub Corporation – Data Science & Analytics Internship
